@@ -1,0 +1,4 @@
+2026-11-13 15:20:54,954 INFO pid=28568 thread=worker-P1 deadlock_simulator.core.resource_manager: Acquisition R1 par P1
+2026-11-13 15:20:54,955 INFO pid=28568 thread=worker-P2 deadlock_simulator.core.resource_manager: Acquisition R2 par P2
+2026-11-13 15:20:55,005 INFO pid=28568 thread=worker-P1 deadlock_simulator.core.resource_manager: Libération R1 par P1
+2026-11-13 15:20:55,005 INFO pid=28568 thread=worker-P2 deadlock_simulator.core.resource_manager: Libération R2 par P2

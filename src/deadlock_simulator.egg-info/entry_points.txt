@@ -1,0 +1,2 @@
+[console_scripts]
+deadlock-sim = deadlock_simulator.cli:main

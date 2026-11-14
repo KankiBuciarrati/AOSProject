@@ -1,0 +1,1 @@
+"""Objets du domaine."""
